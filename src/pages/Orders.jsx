@@ -42,7 +42,7 @@ const Orders = () => {
   }
   return (
     <>
-      <SectionTitle text="Your Orders" />;
+      <SectionTitle text="Your Orders" />
       <OrderList/>
       <PaginationContainer/>
     </>
