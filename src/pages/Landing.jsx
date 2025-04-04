@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 /* eslint-disable no-unused-vars */
 import { FeaturedProducts, Hero } from "../components";
 import { CustomFetch } from "../utils/index";

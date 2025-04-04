@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 /* eslint-disable no-unused-vars */
 import { CustomFetch } from "../utils";
 import { redirect, useLoaderData } from "react-router-dom";

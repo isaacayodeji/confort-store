@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 /* eslint-disable no-unused-vars */
 import { Form, redirect } from "react-router-dom";
 import FormInput from "./Form";
