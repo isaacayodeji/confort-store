@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useNavigate } from "react-router-dom";
-import { logoutUser } from "../features/cart/user/userslice";
+import { logoutUser } from "../features/cart/user/userSlice";
 
 const Header = () => {
   const navigate = useNavigate();

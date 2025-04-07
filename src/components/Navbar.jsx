@@ -4,7 +4,7 @@ import { FaBarsStaggered } from "react-icons/fa6";
 import { NavLink } from "react-router-dom";
 import Navlinks from "./Navlinks";
 import { useDispatch, useSelector } from "react-redux";
-import { toggleTheme } from "../features/cart/user/userslice";
+import { toggleTheme } from "../features/cart/user/userSlice";
 
 // const themes = {
 //   winter: "winter",

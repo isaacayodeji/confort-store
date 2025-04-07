@@ -4,7 +4,7 @@ import { FormInput, SubmitBtn } from "../components";
 import { Form, Link, redirect, useNavigate } from "react-router-dom";
 import { CustomFetch } from "../utils/index";
 import { toast } from "react-toastify";
-import { loginUser } from "../features/cart/user/userslice";
+import { loginUser } from "../features/cart/user/userSlice";
 import { useDispatch } from "react-redux";
 
 export const action =
